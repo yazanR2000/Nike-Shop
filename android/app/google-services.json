@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659228818031",
+    "project_id": "ltuc-shop",
+    "storage_bucket": "ltuc-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659228818031:android:566c9b3a0d06f04815ab9a",
+        "android_client_info": {
+          "package_name": "com.example.ltuc_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659228818031-vfptec2ckcfnrosj0ti8nsoqvc3aa2ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj9FbDXSQzA27vnnifJKSUdXIVqcXVlo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659228818031-vfptec2ckcfnrosj0ti8nsoqvc3aa2ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
